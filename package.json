@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
